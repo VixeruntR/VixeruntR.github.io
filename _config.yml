@@ -1,7 +1,7 @@
 # Site settings
 title: ZY Blog
 SEOTitle: 浊涯的博客 | ZY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/bg.jpg
 email: hpuzhr@163.com
 description: "Every failure is leading towards success."
 keyword: "ZY, ZY Blog, 浊涯的博客, vixerunt, 浊涯, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/vixeruntr/vixeruntr.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/hd.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
