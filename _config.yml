@@ -4,7 +4,7 @@ SEOTitle: 浊涯
 header-img: img/bg.jpg
 email: hpuzhr@163.com
 description: "Every failure is leading towards success."
-keyword: "浊涯的博客, Vixerunt, DL, CV"
+keyword: "Code, ML, DL, CV"
 url: "http://vixeruntr.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/vixeruntr/vixeruntr.github.io.git" # you code repository
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
