@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+Links: [
     {
         title: "Baidu",
         href: "https://www.baidu.com/"
@@ -110,5 +110,8 @@ friends: [
     },{
         title: "Udacity",
         href: "https://cn.udacity.com/"
+    },{
+        title: "Music",
+        href: "https://music.163.com/"
     }
 ]
